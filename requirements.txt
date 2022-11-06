@@ -1,0 +1,5 @@
+ngram
+py_stringmatching
+gensim
+nltk
+owlready2
